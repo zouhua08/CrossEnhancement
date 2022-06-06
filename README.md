@@ -1,6 +1,7 @@
 # CrossEnhancement
-a multi-task framework to enhance the low-light image
-This is a Tensorflow implement of the method for low-light image enhancement.
+
+
+This is a Tensorflow implement of 'A predictive intelligence approach for low-light enhancement'.
 
 Requirements
 Python
